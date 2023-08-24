@@ -1,4 +1,4 @@
-# ![logo](img/logo32.png) Sai C. Kotikalapudi &mdash; @Sai-C-K
+# Sai C. Kotikalapudi &mdash; @Sai-C-K
 
 ![buon giorno!](https://media.tenor.com/t0Fpx0elmwcAAAAC/giorno-giorno-giovanna.gif)
 
