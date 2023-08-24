@@ -24,12 +24,15 @@ My experiences stand with me. I strongly believe in going deep and wide to gain 
 ### Languages
 
 ![backend languages](https://skillicons.dev/icons?i=java,kotlin,ruby,python,bash)
+
 ![front-end languages](https://skillicons.dev/icons?i=javascript,ts,html,css)
 
 ### Frameworks & Tools
 
-![backend framework & tools](https://skillicons.dev/icons?i=idea,spring,rails,mysql,redis)
+![backend framework & tools](https://skillicons.dev/icons?i=idea,spring,rails,mysql,redis&)
+
 ![front-end framework & tools](https://skillicons.dev/icons?i=figma,react,tailwind,postman)
+
 ![dev ops framework & tools](https://skillicons.dev/icons?i=gradle,jenkins,docker,kubernetes)
 
 ## Connect or More?
