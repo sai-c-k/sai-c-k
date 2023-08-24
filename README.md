@@ -10,7 +10,7 @@ Hello World! My name is ***Sai C. Kotikalapudi***. I'm a passionate and experien
 
 My experience stands with me. I strongly believe in going deep and wide to gain a broader perspective on things; So, I have worn many hats in my decade long  career.
 
-- :man_construction_worker: **Backend Engineer [Expert]:** Building globalized multi-tenanted services from the ground up with all `itilies` is my forte.
+- :construction_worker_man: **Backend Engineer [Expert]:** Building globalized multi-tenanted services from the ground up with all `itilies` is my forte.
 - :man_factory_worker: **Devops [Expert]:** I dockerized, K8s-deployed and built CI/CD piplelines for a few services, libraries and images. 
 - :man_artist: **Front-end Engineer [Practitioner]**:  As a recent full-stack engineer, I have built responsive feature-rich pages with an eye for usability.
 - :male_detective: **Project Manager [Practitioner]**: Given a product's need, I have scoped, dismantled to technical deliverables, delegated highly detailed tasks and always delivered quality software.
