@@ -28,10 +28,10 @@ My experiences stand with me. I strongly believe in going deep and wide to gain 
 ### Frameworks & Tools
 ![framework & tools](https://skillicons.dev/icons?i=idea,spring,rails,gradle,figma,react,tailwind,jenkins,mysql,redis,docker,kubernetes,postman&perline=4)
 
-## More?
+## Connect or See More?
 
 ![yes](https://media.tenor.com/qOG4OEr9rFcAAAAC/jojos-bizarre-adventures-jotaro.gif)
 
-[![Gmail](img/gmail-dark-48.svg)](mailto:Sai.C.K.Dev@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/SaiCK)&nbsp;&nbsp;[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@saick)&nbsp;&nbsp;[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/sai-c-k)
+[![gmail](img/gmail-dark-48.svg)](mailto:Sai.C.K.Dev@gmail.com)&nbsp;&nbsp;[![website](img/website-dark-48.svg)](https://saick.me)&nbsp;&nbsp;[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/SaiCK)&nbsp;&nbsp;[![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@saick)&nbsp;&nbsp;[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/sai-c-k)
 
 
