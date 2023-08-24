@@ -20,6 +20,7 @@ My experiences stand with me. I strongly believe in going deep and wide to gain 
 ## Skills
 
 ![drawing skills](https://media.tenor.com/yGfozCgJ14UAAAAC/elijahkujo-rohan-kishibe.gif)
+
 ### Languages
 
 ![skills](https://skillicons.dev/icons?i=java,kotlin,ruby,python,javascript,ts,html,css,bash&perline=4)
