@@ -23,12 +23,16 @@ My experiences stand with me. I strongly believe in going deep and wide to gain 
 
 ### Languages
 
-![skills](https://skillicons.dev/icons?i=java,kotlin,ruby,python,javascript,ts,html,css,bash&perline=4)
+![backend languages](https://skillicons.dev/icons?i=java,kotlin,ruby,python,bash)
+![front-end languages](https://skillicons.dev/icons?i=javascript,ts,html,css)
 
 ### Frameworks & Tools
-![framework & tools](https://skillicons.dev/icons?i=idea,spring,rails,gradle,figma,react,tailwind,jenkins,mysql,redis,docker,kubernetes,postman&perline=4)
 
-## Connect or See More?
+![backend framework & tools](https://skillicons.dev/icons?i=idea,spring,rails,mysql,redis)
+![front-end framework & tools](https://skillicons.dev/icons?i=figma,react,tailwind,postman)
+![dev ops framework & tools](https://skillicons.dev/icons?i=gradle,jenkins,docker,kubernetes)
+
+## Connect or More?
 
 ![yes](https://media.tenor.com/qOG4OEr9rFcAAAAC/jojos-bizarre-adventures-jotaro.gif)
 
