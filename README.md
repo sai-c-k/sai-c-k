@@ -34,7 +34,7 @@ My experiences stand with me. I strongly believe in going deep and wide to gain 
 
 ![Front-end framework & tools](https://skillicons.dev/icons?i=figma,react,tailwind,postman)
 
-+![DevOps framework & tools](https://skillicons.dev/icons?i=gradle,jenkins,docker,kubernetes)
+![DevOps framework & tools](https://skillicons.dev/icons?i=gradle,jenkins,docker,kubernetes)
 
 ## Connect or More?
 
